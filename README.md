@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @RohitRaoRajnadu40
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Happy Birthday
 
-<!---
-RohitRaoRajnadu40/RohitRaoRajnadu40 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A Happy Birthday animation design in CSS3, HTML5.
+
+URL: http://ayusharma.github.io/birthday/
+
+Technology Used: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
+
+For further queries do not hesitate to contact me.
+
+Ayush Sharma Arya College Of Engineering & IT, Jaipur India.
+
+contact details: ayush.aceit@gmail.com
+
+IRC: ayushpix
